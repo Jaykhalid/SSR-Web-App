@@ -1,4 +1,4 @@
-# static-website
+# Static Website which built in Single Side Rendering concept by NuxtJS
 
 ## Build Setup
 
